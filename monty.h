@@ -107,4 +107,7 @@ void _swap(stack_t **stack, unsigned int line_number);
 /* 16.add.c prototpes */
 void _add(stack_t **stack, unsigned int line_number);
 
+/* 17.nop.c prototpes */
+void _nop(stack_t **stack, unsigned int line_number);
+
 #endif
