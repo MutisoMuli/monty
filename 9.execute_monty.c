@@ -86,6 +86,8 @@ void (*operation_func(char *opcode))(stack_t**, unsigned int)
 		{"pstr", _pstr},
 		{"rotl", _rotl},
 		{"rotr", _rotr},
+		{"stack", _stack},
+		{"queue", _queue},
 		{NULL, NULL}
 	};
 	int i;
