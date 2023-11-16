@@ -4,10 +4,10 @@
  * _pop - Removes the top element from
  * a stack_t linked list.
  *
- * @stack: A pointer to the top node of a 
+ * @stack: A pointer to the top node of a
  * stack_t linked list.
  *
- * @line_number: The current line number in 
+ * @line_number: The current line number in
  * the Monty bytecode file.
  */
 void _pop(stack_t **stack, unsigned int line_number)

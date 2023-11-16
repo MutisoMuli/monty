@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-  * pushinteger_error - Prints error message if not an integer,
+  * pushint_error - Prints error message if not an integer,
   * or no argument given to push.
   * @line_number: Monty file where error appeared.
   *

@@ -6,7 +6,7 @@
  *
  * @line_number: Line number in the Monty bytecode file
  * where the error occurred.
- * 
+ *
  * @message: The corresponding error message to print.
  *
  * Return: Always returns (EXIT_FAILURE).

@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * monty_sub - Subtracts the top value from the second value on
+ * _sub - Subtracts the top value from the second value on
  * a stack_t linked list.
  *
  * @stack: A pointer to the top node of a stack_t linked list.

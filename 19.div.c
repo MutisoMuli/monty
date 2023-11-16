@@ -2,7 +2,7 @@
 
 /**
  * div_error - Prints error messages for division by zero.
- * 
+ *
  * @line_number: Line number in the Monty bytecode file
  * where the error occurred.
  *
