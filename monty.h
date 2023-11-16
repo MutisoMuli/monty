@@ -133,7 +133,8 @@ void _pstr(stack_t **stack, unsigned int line_number);
 /* 24.rotl.c prototpes */
 void _rotl(stack_t **stack, unsigned int line_number);
 
-
+/* 25.rotr.c prototpes */
+void _rotr(stack_t **stack, unsigned int line_number);
 
 
 
