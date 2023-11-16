@@ -130,7 +130,8 @@ void _pchar(stack_t **stack, unsigned int line_number);
 /* 23.pstr.c prototpes */
 void _pstr(stack_t **stack, unsigned int line_number);
 
-
+/* 24.rotl.c prototpes */
+void _rotl(stack_t **stack, unsigned int line_number);
 
 
 
