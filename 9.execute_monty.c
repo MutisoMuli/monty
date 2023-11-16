@@ -81,6 +81,7 @@ void (*operation_func(char *opcode))(stack_t**, unsigned int)
 		{"sub", _sub},
 		{"div", _div},
 		{"mul", _mul},
+		{"mod", _mod},
 		{NULL, NULL}
 	};
 	int i;
