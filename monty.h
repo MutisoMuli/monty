@@ -100,7 +100,11 @@ int pop_error(unsigned int line_number);
 
 /* 14.briefstack.c prototpes */
 int briefstack_error(unsigned int line_number, char *op);
+
 /* 15.swap.c prototpes */
 void _swap(stack_t **stack, unsigned int line_number);
+
+/* 16.add.c prototpes */
+void _add(stack_t **stack, unsigned int line_number);
 
 #endif
