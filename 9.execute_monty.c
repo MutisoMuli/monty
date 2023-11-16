@@ -80,6 +80,7 @@ void (*operation_func(char *opcode))(stack_t**, unsigned int)
 		{"nop", _nop},
 		{"sub", _sub},
 		{"div", _div},
+		{"mul", _mul},
 		{NULL, NULL}
 	};
 	int i;

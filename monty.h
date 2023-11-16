@@ -117,7 +117,8 @@ void _sub(stack_t **stack, unsigned int line_number);
 void _div(stack_t **stack, unsigned int line_number);
 int div_error(unsigned int line_number);
 
-
+/* 20.mul.c prototpes */
+void _mul(stack_t **stack, unsigned int line_number);
 
 
 
