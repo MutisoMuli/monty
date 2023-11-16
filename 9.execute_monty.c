@@ -74,6 +74,7 @@ void (*operation_func(char *opcode))(stack_t**, unsigned int)
 		{"push", _push},
 		{"pall", _pall},
 		{"pint", _pint},
+		{"pop", _pop},
 		{NULL, NULL}
 	};
 	int i;
