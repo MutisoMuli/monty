@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdio.h>
 
+int execute_monty(FILE *script_fd);
+
 /**
  * free_memory - Deallocates memory used by the
  * global op_toks array of strings.

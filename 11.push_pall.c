@@ -1,5 +1,7 @@
 #include "monty.h"
 
+void _push(stack_t **stack, unsigned int line_number);
+
 /**
   * _push - Inserts a value into a stack_t linked list.
   * @stack: pointer to the topmost node of a stack_t linked list.

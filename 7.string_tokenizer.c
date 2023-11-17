@@ -1,6 +1,8 @@
 #include "monty.h"
 #include <stdlib.h>
 
+char **tokenize_string(char *str, char *delims);
+
 /**
  * tokenize_string - Parses a string and separates its words.
  *
