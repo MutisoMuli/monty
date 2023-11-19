@@ -107,5 +107,5 @@ Exits with status `EXIT_FAILURE`
 ## Styling
 All files have been written in the Betty Style.
 
-## Authors
+## Author
 © **MutisoMuli** - [Github Account](https://github.com/MutisoMuli) Email:[mulimutiso525@gmail.com](mailto:mulimutiso525@gmail.com)
